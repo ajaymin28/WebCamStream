@@ -2,6 +2,13 @@
 WebCamStream using socket connection.
 
 
+# Docker Build Status for requirements file
+
+[![Building Docker Image](https://github.com/ajaymin28/WebCamStream/actions/workflows/build-docker-image.yml/badge.svg)](https://github.com/ajaymin28/WebCamStream/actions/workflows/build-docker-image.yml)
+
+
+# Introduction
+
 OpenCV based streaming of webcam from one machine to another in a local network.
 
 1. StartWebCamStream.py
